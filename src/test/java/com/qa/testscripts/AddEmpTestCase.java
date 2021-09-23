@@ -1,9 +1,9 @@
 package com.qa.testscripts;
 
-public class LoginTestCase {
+public class AddEmpTestCase {
 
 	public static void main(String[] args) {
-		System.out.println("Hello world...");
+		// TODO Auto-generated method stub
 
 	}
 
